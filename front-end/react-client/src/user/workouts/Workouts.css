@@ -1,0 +1,9 @@
+.workouts-table-body tr:hover{
+    color: white;
+    background-color: #A0A0A0;
+    cursor: pointer;
+}
+
+.workout-specification-form label:hover{
+    cursor: pointer;
+}
